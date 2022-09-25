@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "01-Fundamentals-Part-1"
+    },
+    {
+      "path": "02-Fundamentals-Part-2"
+    },
+    {
+      "path": "03-Developer-Skills"
+    },
+    {
+      "path": "04-HTML-CSS"
+    },
+    {
+      "path": "05-Guess-My-Number"
+    },
+    {
+      "path": "06-Modal"
+    },
+    {
+      "path": "07-Pig-Game"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "03-Developer-Skills"
+  }
+}

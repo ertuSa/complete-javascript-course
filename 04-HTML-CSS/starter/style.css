@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(118, 224, 203);
+  font-family: monospace;
+  font-size: 20px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* class can be selected starting with . and then clas name */
+.firstParagraph {
+  color: red;
+}
+
+/* id can be selected starting with # and then id name */
+#your-name {
+  background-color: rgb(255, 255, 0);
+  border: 5px solid #444;
+  width: 400px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellow;
+}
+
+#your-name h2 {
+  color: olive;
+}
+
+#github-image {
+  width: 100px;
+}
